@@ -3,10 +3,10 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD01V>
-    <DOMNAME>ZOT_24_D_PERSONEL_COCUK_SAYISI</DOMNAME>
+    <DOMNAME>ZOT_24_D_P_T_ID</DOMNAME>
     <DATATYPE>CHAR</DATATYPE>
-    <LENG>000010</LENG>
-    <OUTPUTLEN>000010</OUTPUTLEN>
+    <LENG>000020</LENG>
+    <OUTPUTLEN>000020</OUTPUTLEN>
     <DOMMASTER>E</DOMMASTER>
    </DD01V>
    <I18N_LANGS>
@@ -15,7 +15,7 @@
    <DD01_TEXTS>
     <item>
      <DDLANGUAGE>E</DDLANGUAGE>
-     <DDTEXT>PERSONEL ÇOCUK SAYISI</DDTEXT>
+     <DDTEXT>Tweet ID domain</DDTEXT>
     </item>
    </DD01_TEXTS>
   </asx:values>
